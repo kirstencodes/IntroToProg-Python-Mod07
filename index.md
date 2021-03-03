@@ -38,14 +38,23 @@ The assignment this week was to create a script that showcases pickling and exce
 Figure 1 shows the program running in PyCharm, Figure 2 shows pickling within functions and the try-except block, Figure 3 shows the main code, Figure 4 shows the program also running in the command line and adding and entry to what was already there, and finally Figure 5 shows the final resulting text file that has been pickled.
 
 ![image](https://user-images.githubusercontent.com/79127964/109749698-025ba680-7b90-11eb-9477-dd744a131c0c.png)
+
 Figure 1: In PyCharm, displaying previous entries when program is opened and asking for new entries.
+
 ![image](https://user-images.githubusercontent.com/79127964/109749775-25865600-7b90-11eb-848f-1976405734fe.png)
+
 Figure 2: In PyCharm, code for defining functions including pickling and unpickling.
+
 ![image](https://user-images.githubusercontent.com/79127964/109749856-477fd880-7b90-11eb-9271-f2b039b868f7.png)
+
 Figure 3: In PyCharm, main code displaying previous entries and while loop that asks for new entries until the user types “exit”.
+
 ![image](https://user-images.githubusercontent.com/79127964/109749865-4cdd2300-7b90-11eb-86e1-633e64d92296.png)
+
 Figure 4: In the command line, the program still works as expected.
+
 ![image](https://user-images.githubusercontent.com/79127964/109749888-5070aa00-7b90-11eb-9827-f789c9d48112.png)
+
 Figure 5: The resulting text file that shows the pickled entries.
 
 ## Summary
